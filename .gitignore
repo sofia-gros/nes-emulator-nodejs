@@ -1,4 +1,5 @@
 # Logs
+roms/*
 logs
 *.log
 npm-debug.log*
